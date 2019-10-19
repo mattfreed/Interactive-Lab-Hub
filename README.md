@@ -7,3 +7,4 @@ Completed Labs for Matt Freed
 3. [Matt Freed's Lab 3](//github.com/mattfreed/IDD-Fa19-Lab3)
 4. [Matt Freed's Lab 4](//github.com/mattfreed/IDD-Fa19-Lab4)
 5. [Matt Freed's Lab 5](//github.com/mattfreed/IDD-Fa19-Lab5)
+6. [Matt Freed's Lab 6](//github.com/mattfreed/IDD-Fa19-Lab6)
